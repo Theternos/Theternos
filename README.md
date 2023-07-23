@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/kavinkumar-b-ternos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinkumar-b-ternos" height="30" width="40" /></a>
 <a href="https://instagram.com/itskavinhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itskavinhere" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kavin_apm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kavin_apm" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kavin_apm" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F554646510333611675%2F&psig=AOvVaw00_N28MytOsUaMQjPONAA7&ust=1690181429388000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODoytGepIADFQAAAAAdAAAAABAD)" alt="kavin_apm" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kavinapm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kavinapm" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@kavin_apm2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kavin_apm2003" height="30" width="40" /></a>
 </p>
