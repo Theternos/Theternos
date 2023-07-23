@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theternos&label=Profile%20views&color=0e75b6&style=flat" alt="theternos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theternos" alt="theternos" /></a> </p>
-
 - 🔭 I’m currently working on [Patient Engagement and Support](https://github.com/Theternos/Patient-Doctor-Portal)
 
 - 🌱 I’m currently learning **React Js, Node**
