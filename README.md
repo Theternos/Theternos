@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theternos&label=Profile%20views&color=0e75b6&style=flat" alt="theternos" /> </p>
 
-- 🔭 I’m currently working on [Patient Engagement and Support](https://github.com/Theternos/Patient-Doctor-Portal)
+- 🔭 I’m currently studying DSA and Solving Problems on GFG
 
 - 🌱 I’m currently learning **React Js, Node**
 
-- 💬 Ask me about **Python, C and PhP**
+- 💬 Ask me about **Python, C,, Java, MySQL and PhP**
 
-- 📫 How to reach me **kavinkumar.cs21@bitsathy.ac.in**
+- 📫 How to reach me **kavin.apm2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
