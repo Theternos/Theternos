@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js, Node**
 
-- 💬 Ask me about **Python, C,, Java, MySQL and PhP**
+- 💬 Ask me about **Python, C, Java, MySQL and PhP**
 
 - 📫 How to reach me **kavin.apm2003@gmail.com**
 
